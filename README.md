@@ -1,7 +1,8 @@
 # Machine Learning in Python
-My hope with this repository is to upload progress on neural network training in Python. 
+My hope with this repository is to upload progress on neural network training and other machine learning training in Python. 
 
 Classification data has been included here, provided by UC Irvine:
+
 https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/
 
 Python code is using the latest version of Python (3.6 on 10/13/2017) via Anaconda (Spyder):
