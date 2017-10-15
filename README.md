@@ -14,8 +14,10 @@ Email: MailKyleDavis@gmail.com
 
 # Example: KNN Visalizations In Python's 'fivethirtyeight'
 Considering a new datum added with supervised learning:
+
 ![KNN Question](https://github.com/KyleDavisGithub/Machine-Learning-py/blob/master/KNNQuestion.png)
 
 And then classifying and coloring in points!
+
 ![ClassResult](https://github.com/KyleDavisGithub/Machine-Learning-py/blob/master/ClassResult.png)
 
