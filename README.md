@@ -10,9 +10,6 @@ https://www.anaconda.com/download/
 
 Code runs through K nearest neighbors, classification using data, and SVMs.
 
-Questions?
-Email: MailKyleDavis@gmail.com
-
 # Example: KNN Visalizations In Python's 'fivethirtyeight'
 Considering a new datum added with supervised learning:
 
