@@ -1,3 +1,6 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+
 # Machine Learning in Python
 My hope with this repository is to upload progress on neural network training and other machine learning training in Python. 
 
